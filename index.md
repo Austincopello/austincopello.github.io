@@ -1,7 +1,9 @@
 Welcome
 ---
-where does this end up
+## where does this end up
 
-Start of something new!
+# Start of something new!
 
-This is my **first site** on GitHub Pages—styled by a theme but zero coding needed.
+### Testing this out!
+
+# New start!
