@@ -1,6 +1,6 @@
 title: Welcome
 ---
 
-# **Bold** Start of something new!
+Start of something new!
 
 This is my **first site** on GitHub Pages—styled by a theme but zero coding needed.
