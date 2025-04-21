@@ -1,7 +1,7 @@
 ---
-title: About Me
+# About Page
 ---
 
-# About Austin
+## where does this go
 
-Start of something new!!
+### Start of something new!!
