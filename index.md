@@ -1,9 +1,9 @@
 Welcome
 ---
-## where does this end up
+## where does this end up - two hashtags
 
-# Start of something new!
+# Start of something new! - One hashtag
 
-### Testing this out!
+### Testing this out! - 3 hashtags
 
-# New start!
+# New start! - one hashtag
